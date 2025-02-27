@@ -16,4 +16,5 @@ AI-Powered Travel Planner is an intelligent system that helps users find the bes
 - **LangChain** – Manages LLM-based interactions  
 - **Google GenAI** – AI-powered recommendation engine  
 
-
+👉 Click here to try the AI-Powered Travel Planner on Hugging Face!:
+https://huggingface.co/spaces/Mpavan45/Ai_Travel_Planner
